@@ -1,0 +1,18 @@
+/* 
+    Document   : newcss1
+    Created on : 2017-05-27, 10:38:29
+    Author     : jsikora
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+img {
+    width: 100px;
+    height:100px;
+    }
+
+    table, td {
+        border: 1px #70b8ff dashed;
+    }
+    
+    
